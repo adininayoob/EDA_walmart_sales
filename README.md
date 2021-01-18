@@ -1,4 +1,4 @@
-# Walmart Sales Data- EDA
+# Walmart Sales Data-EDA
 ## Overview
 Exploratory data analysis of sales pattern on 45 Walmart stores in geographically diverse locations.
 The aim of this project is to:
