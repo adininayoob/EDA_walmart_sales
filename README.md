@@ -11,7 +11,8 @@ The aim of this project is to:
 ## Data description
 The data collection includes historical data from 2010-02-05 to 2012-11-01 containing revenue information. An abstract of the original data is given in the picture below. 
 
-![Screenshot (4)](https://user-images.githubusercontent.com/73240466/104917501-7f083c00-59b9-11eb-80d2-ff0a9594ad82.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/73240466/104917927-12417180-59ba-11eb-9e05-2d62497c79f6.png)
+
 
 
 The dataset contained records on 421570 sale details of 45 stores .
