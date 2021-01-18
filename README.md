@@ -23,7 +23,7 @@ Stores were categorized according to the size and type wise weekly sales per yea
 Correlation matrices were plotted overall level and for each store types to find out the interdependence of parameters affecting sales
 
 ## Inference
-It is found that thee festive seasons show peak in sales and usually hit the lowest in the year end. The sale is healthier when temperature is ambient and fuel price stable. Among the factors that determine the weekly sales, size has proved to be a key factor.At the same time when sales per unit area is being analysed,medium size stores have effectively larger sales. So we can conclude that type B stores(medium sized) are more remunerative than larger stores.
+It is found that the festive seasons show peak in sales and usually hit the lowest in the year end. The sale is healthier when temperature is ambient and fuel price stable. Among the factors that determine the weekly sales, size has proved to be a key factor.At the same time when sales per unit area is being analysed,medium size stores have effectively larger sales. So we can conclude that type B stores(medium sized) are more remunerative than larger stores.
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/73240466/104918397-b1feff80-59ba-11eb-9222-300156de029b.png)
  
