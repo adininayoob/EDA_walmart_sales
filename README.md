@@ -6,8 +6,12 @@ The aim of this project is to:
 * Understand and evaluate which store type improves the sale scale.
 
 
+
+
 ## Data description
 The data collection includes historical data from 2010-02-05 to 2012-11-01 containing revenue information. An abstract of the original data is given in the picture below. 
+
+
 
 The dataset contained records on 421570 sale details of 45 stores .
 
