@@ -17,7 +17,7 @@ The data collection includes historical data from 2010-02-05 to 2012-11-01 conta
 
 The dataset contained records on 421570 sale details of 45 stores .
 
-## 
+## Methodology
 The dataset was analysed using different visualisations and by using various statistical indexes. Based on the analysis, a set of features were found to be relevant. The analysis is being done primarily using pandas. Seaborn and matplotlib were used for creating data visualisations. 
 Stores were categorized according to the size and type wise weekly sales per year graph was plotted. In addition, calculated median weekly sales per unit area by store type
 Correlation matrices were plotted overall level and for each store types to find out the interdependence of parameters affecting sales
